@@ -1,6 +1,6 @@
 # Algorithms and Programming
 
-This repository contains a collection of various algorithms and programming examples. It aims to assist users in exploring and applying mathematical and programming concepts across different domains.
+This repository contains a collection of various algorithms and programming examples. It aims to help users explore and apply mathematics and programming concepts from different fields. These examples and algorithms were developed based on the information I gained in the "Algorithm and Programming 1" course in the first year of my software engineering education.
 
 ## Table of Contents
 
